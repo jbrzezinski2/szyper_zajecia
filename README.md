@@ -1,0 +1,1 @@
+# szyper_zajecia
