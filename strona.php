@@ -11,3 +11,20 @@
         
         <hr>
     DATA;
+
+
+        $data = <<< DATA
+        Imię: $firstName<br>
+        Nazwisko: $lastName
+        
+        <hr>
+    DATA;
+        echo $data;
+        //nondoc
+        echo <<< 'DATA'
+        Imię: $firstName<br>
+        Nazwisko: $lastName
+        
+        <hr>
+    DATA;
+        
