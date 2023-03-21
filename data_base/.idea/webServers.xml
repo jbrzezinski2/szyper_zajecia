@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2b778c38-cb43-4aa0-ba76-c09e946050f9" name="php_serwer_cdv_szyper_zajecia" url="http://localhost:8040/git/szyper_zajecia/data_base/">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
